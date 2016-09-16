@@ -12,7 +12,7 @@ use Modules\Menu\Providers\MenuServiceProvider;
 use Modules\Menu\Repositories\MenuItemRepository;
 use Modules\Menu\Repositories\MenuRepository;
 use Orchestra\Testbench\TestCase;
-use Pingpong\Modules\ModulesServiceProvider;
+use Nwidart\Modules\ModulesServiceProvider;
 
 abstract class BaseMenuTest extends TestCase
 {
